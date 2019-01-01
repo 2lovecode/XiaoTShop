@@ -1,4 +1,4 @@
-const ApiRootUrl ='你的域名/api/';
+const ApiRootUrl ='https://www.bjguanyu.cn/api/';
 
 var version = '/v2';
 
